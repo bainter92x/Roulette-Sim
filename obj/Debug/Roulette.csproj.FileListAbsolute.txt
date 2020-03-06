@@ -1,0 +1,6 @@
+C:\Users\baint\source\repos\Roulette\bin\Debug\Roulette.exe.config
+C:\Users\baint\source\repos\Roulette\bin\Debug\Roulette.exe
+C:\Users\baint\source\repos\Roulette\bin\Debug\Roulette.pdb
+C:\Users\baint\source\repos\Roulette\obj\Debug\Roulette.exe
+C:\Users\baint\source\repos\Roulette\obj\Debug\Roulette.pdb
+C:\Users\baint\source\repos\Roulette\obj\Debug\Roulette.csprojAssemblyReference.cache
